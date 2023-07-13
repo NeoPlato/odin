@@ -16,3 +16,6 @@
 [submodule "dist/calculator"]
 	path = dist/calculator
 	url = git@github.com:NeoPlato/odin-calculator.git
+[submodule "dist/rock-paper-scissors"]
+	path = dist/rock-paper-scissors
+	url = git@github.com:NeoPlato/odin-rock-paper-scissors.git
