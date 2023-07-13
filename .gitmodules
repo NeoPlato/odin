@@ -1,0 +1,3 @@
+[submodule "dist/signup-form"]
+	path = dist/signup-form
+	url = git@github.com:NeoPlato/odin-signup-form.git
