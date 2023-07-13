@@ -10,3 +10,9 @@
 [submodule "dist/tic-tac-toe"]
 	path = dist/tic-tac-toe
 	url = git@github.com:NeoPlato/odin-tic-tac-toe.git
+[submodule "dist/etch-a-sketch"]
+	path = dist/etch-a-sketch
+	url = git@github.com:NeoPlato/odin-etch-a-sketch.git
+[submodule "dist/calculator"]
+	path = dist/calculator
+	url = git@github.com:NeoPlato/odin-calculator.git
