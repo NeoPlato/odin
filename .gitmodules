@@ -19,3 +19,12 @@
 [submodule "dist/rock-paper-scissors"]
 	path = dist/rock-paper-scissors
 	url = git@github.com:NeoPlato/odin-rock-paper-scissors.git
+[submodule "dist/landing-page"]
+	path = dist/landing-page
+	url = git@github.com:NeoPlato/odin-landing-page.git
+[submodule "dist/recipes"]
+	path = dist/recipes
+	url = git@github.com:NeoPlato/odin-recipes.git
+[submodule "dist/restaurant"]
+	path = dist/restaurant
+	url = git@github.com:NeoPlato/odin-restaurant.git
