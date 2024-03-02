@@ -25,3 +25,6 @@
 [submodule "dist/restaurant"]
 	path = dist/restaurant
 	url = git@github.com:NeoPlato/odin-restaurant.git
+[submodule "dist/tic-tac-toe"]
+	path = dist/tic-tac-toe
+	url = git@github.com:NeoPlato/odin-tic-tac-toe.git
